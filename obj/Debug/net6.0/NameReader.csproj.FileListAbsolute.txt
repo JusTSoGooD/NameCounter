@@ -1,0 +1,15 @@
+C:\Users\kuchm\Desktop\Программы c#\NameReader\bin\Debug\net6.0\NameReader.exe
+C:\Users\kuchm\Desktop\Программы c#\NameReader\bin\Debug\net6.0\NameReader.deps.json
+C:\Users\kuchm\Desktop\Программы c#\NameReader\bin\Debug\net6.0\NameReader.runtimeconfig.json
+C:\Users\kuchm\Desktop\Программы c#\NameReader\bin\Debug\net6.0\NameReader.dll
+C:\Users\kuchm\Desktop\Программы c#\NameReader\bin\Debug\net6.0\NameReader.pdb
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.csproj.AssemblyReference.cache
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.AssemblyInfoInputs.cache
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.AssemblyInfo.cs
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.csproj.CoreCompileInputs.cache
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.dll
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\refint\NameReader.dll
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.pdb
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\NameReader.genruntimeconfig.cache
+C:\Users\kuchm\Desktop\Программы c#\NameReader\obj\Debug\net6.0\ref\NameReader.dll
