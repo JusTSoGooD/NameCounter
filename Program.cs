@@ -1,14 +1,12 @@
-﻿using System;
-
-namespace NameReader
+﻿namespace NameReader
 {
     internal class MyProgramm
     {
         static void Main()
         {
-            //Namesgenerator.GeneratorOfNames();
-            string readedString = TextReader.ReadingTextFromFile("C:/Users/kuchm/Desktop/Программы c#/NameReader/test.txt");
-            CountingNames.NamesCounter(readedString);
+            Namesgenerator.GenerateNames();
+            List<string> namesInfile = NamesReader.ReadNamesFromFile("C:/Users/kuchm/Desktop/Программы c#/NameReader/test.txt");
+            CountNames.FindMostCommonNames(namesInfile);
         }
     }
 }
